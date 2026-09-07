@@ -1,4 +1,4 @@
-# [Mathly](https://github.com/fdformula/mathly) Turns Lua into a Tiny, Portable, Free but Powerful MATLAB and More
+# Mathly Turns Lua into a Tiny, Portable, Free but Powerful MATLAB and More
 
 Mathly [https://github.com/fdformula/mathly] for [Lua](https://www.lua.org) is a Lua module that turns Lua into a tiny, portable, free but powerful MATLAB and more. It provides a group of commonly
 used MATLAB functions and features, including `linspace`, `zeros`, `rand`, `save`, `plot`, `plot3d`, and convenient matrix operations
