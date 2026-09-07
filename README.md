@@ -20,4 +20,4 @@ start Lua with Mathly loaded. While developing code and doing computation in a l
 of course contents and never need to worry if their computers work too slowly. Moreover, Lua is so
 simple and natural a language that students without programming skills can understand most of Lua code.
 
-See [Mathly](https://github.com/fdformula/mathly) at https://github.com/fdformula/mathly.
+See details of MathLua at https://github.com/fdformula/mathly.
