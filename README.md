@@ -5,4 +5,4 @@ used MATLAB functions and features, including `linspace`, `zeros`, `rand`, `save
 as well. If there are things many love the most about MATLAB, these tools are. They make coding and testing a thought much easier and faster
 than working in most other programming languages. Besides, `animate` and `manipulate` allow easy and cool animation of 2D curves.
 
-See [https://github.com/fdformula/mathly].
+See https://github.com/fdformula/mathly.
